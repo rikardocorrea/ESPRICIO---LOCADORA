@@ -25,6 +25,7 @@ class CarroController{
 
             if(!fs.existsSync(PATH_FILE))
             {
+                fs.mkdirSync("./dados", { recursive: true });
                 fs.writeFileSync(PATH_FILE, "[]", "utf-8");
             }
 
