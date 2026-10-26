@@ -1,0 +1,22 @@
+[
+    {
+        "modelo": "Renegade",
+        "marca": "JEEP",
+        "ano": 2024
+    },
+    {
+        "modelo": "Renegade",
+        "marca": "Compass",
+        "ano": 2025
+    },
+    {
+        "modelo": "Pálio",
+        "marca": "FIAT",
+        "ano": 2008
+    },
+    {
+        "modelo": "Silverado",
+        "marca": "GM",
+        "ano": 1995
+    }
+]
